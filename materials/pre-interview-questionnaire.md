@@ -44,10 +44,10 @@ _A note on dependencies_: Many projects rely on other packages, technologies, pr
 
 ### Licensing
 
-5. Do you make the technologies and products available through this project available under an open source license? Yes/No/Partially/Not applicable
-    7. Content
-    8. Metadata
-    9. Source code
+5. Do you make the technologies and products available through this project available under an open source license? (Yes/No/Partially/Not applicable)
+    + Content
+    + Metadata
+    + Source code
 
 6. If you ticked partially for any, please explain.
 
@@ -56,10 +56,9 @@ _A note on dependencies_: Many projects rely on other packages, technologies, pr
 _A note on governance vs operations_: Governance is about the structures, values, and processes that shape your organisations long-term goals and actions. It is in contrast to the management of day-to-day operations. 
 
 7. Do you have a defined governance plan? (yes/no)
-    10. if yes, next question
 
 8. Is your governance process publicly documented? (yes/no)
-    11. If yes, If possible, please point to documentation. [Add link to upload]
+    + If yes, If possible, please point to documentation. [Add link to upload]
 
 9. Do you have a plan documenting what happens if your company ceases to operate? If possible, please point to documentation.
 
@@ -72,10 +71,10 @@ _A note on community_: Community is used to refer to users of this project in co
 12. If possible, link to supplemental information [Add upload button]
 13. Are you aware of other organizations, entities, or institutions which play a central role in the strategic-planning and/or day-to-day operations of this project? (e.g., institutions where project leads are based, leading institutions involved in governance or project leadership, organisation where project is housed, etc.)
 
-    12. If yes, please describe. _The relationships with these entities can be rooted in the operations, governance, finances, or other aspects of this project._
+    + If yes, please describe. _The relationships with these entities can be rooted in the operations, governance, finances, or other aspects of this project._
 
-        5. Name of entity
-        6. Relationship to this project
+        + Name of entity
+        + Relationship to this project
 
 
 ### Community governance
@@ -86,9 +85,9 @@ _A note on community governance_: In addition to the governance for your project
 
 15. If yes, please describe what kind of structures are in place for this project.
 
-    1.  Type (advisory board/steering committee, multi-board governance structure, bylaws/principles,values, other)
-    2.  How is it implemented?
-    3.  Link to documentation
+    + Type (advisory board/steering committee, multi-board governance structure, bylaws/principles,values, other)
+    + How is it implemented?
+    + Link to documentation
 
 
 ## Finances
