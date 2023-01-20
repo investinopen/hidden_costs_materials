@@ -1,0 +1,29 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Hidden Cost Research Materials
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Asura
+    family-names: Enkhbayar
+    email: asura.enkhbayar@gmail.com
+    orcid: 'https://orcid.org/0000-0002-3934-026X'
+  - given-names: Richard
+    family-names: Dunks
+    email: richarddunks@gmail.com
+    orcid: 'https://orcid.org/0000-0001-6999-7935'
+repository-code: 'https://github.com/investinopen/hidden_costs_materials'
+url: >-
+  https://investinopen.org/blog/the-costs-of-open-infrastructure-conversations-with-providers-funders-and-institutions/
+abstract: >-
+  As part of our investigation of the hidden costs of open
+  infrastructures we conducted qualitative research with
+  service providers, funders, and institutional budget
+  owners. In this repository, we provide a brief outline of
+  research methods and participants. Additionally, all
+  questions are provided in the /materials folder.
+license: CC0-1.0
